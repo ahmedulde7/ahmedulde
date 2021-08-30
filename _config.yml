@@ -20,13 +20,11 @@
 
 title: Welcome Cloud Army
 description: This blog is for cloud and devops enthusiasts. You can also find my resume and connect with me.
-url: [Canonical URL for this blog]
+url: cloudarmy.com
 author:
   name: Ahmed Ulde
   email: cloudarmy@gmail.com
-  url: [URL of your website]
-
-paginate: [Number of posts in one paginated section (default: 3)]
+  url: cloudarmy.com
 owner: [Your name]
 year: [Current Year]
 
